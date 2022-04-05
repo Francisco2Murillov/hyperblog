@@ -1,0 +1,47 @@
+[33mcommit d73124fc2628d039321438142dd467fda47160f0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Francisco MurilloV <fjmurillov3743@gmail.com>
+Date:   Mon Apr 4 00:26:48 2022 -0600
+
+    agregamos sus estudios
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 9e88105cc65d19fc71b6f339239490b2a6673bc1[m
+Author: Francisco MurilloV <fjmurillov3743@gmail.com>
+Date:   Mon Apr 4 00:25:08 2022 -0600
+
+    Cambio de vida fjmurillov2732
+
+ historia.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 75247e3d2c9cc5acdc601f00faabfedd8ea4692e[m
+Author: Francisco MurilloV <fjmurillov3743@gmail.com>
+Date:   Mon Apr 4 00:22:21 2022 -0600
+
+    inicio mi proyecto real con html & css
+
+ blogpost.html   | 14 [32m++++++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ historia.txt    |  3 [32m++[m[31m-[m
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+
+[33mcommit a1649956dac46818618ee1d9efcb4a9b3108d763[m
+Author: Francisco MurilloV <fjmurillov3743@gmail.com>
+Date:   Sun Apr 3 01:17:11 2022 -0600
+
+    agregamos comentarios al archivo
+
+ historia.txt | 4 [32m++++[m
+ 1 file changed, 4 insertions(+)
+
+[33mcommit 8afd6d053d67e0861560025aa443900a5627a00a[m
+Author: FrancisccoIIIMurillov <fjmurillov3743@gmail.com>
+Date:   Sun Apr 3 00:18:57 2022 -0600
+
+    este es el primer commit
+
+ historia.txt | 6 [32m++++++[m
+ vacio.txt    | 1 [32m+[m
+ 2 files changed, 7 insertions(+)
