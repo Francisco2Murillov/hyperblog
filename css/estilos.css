@@ -1,19 +1,28 @@
 body
 {
 
-    color: #333;
-    text-align: left;
+    background: #1e1f24;
+    color: whitesmoke;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 10;
+    padding: 10;
 }
 
 #cabezera {
-    background: #33a;
+    background: #37488b ;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,00.5);
-    color: white;
+    color: whitesmoke;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
+
+    #cabezera #logo{
+        width: 20px;
+        vertical-align: middle;
+    }
 
 #cabezera #tagline{
     padding: 0 0 0 1em;
@@ -32,4 +41,10 @@ body
 #container h1{
     font-size: 20px;
 
+}
+
+#post{
+    
+    background-attachment: fixed;
+    padding: 1em;
 }
